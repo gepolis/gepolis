@@ -1,7 +1,7 @@
 
 <h1 align="center">Languages</h1>
 
-<div>
+<div align="center">
 
   <a href="https://github.com/gepolis">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
