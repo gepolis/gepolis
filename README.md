@@ -27,8 +27,8 @@
 <h1 align="center">Platform</h1>
 <div align="center">
 
-[![](https://img.shields.io/badge/Ubuntu-22.04-e95420?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Linux-mint-35bf5c?style=flat-square&logo=linuxmint)](https://linuxmint.org/)
+[![](https://img.shields.io/badge/Ubuntu-22.04-e95420?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/Linux-mint-35bf5c?style=for-the-badge&logo=linuxmint)](https://linuxmint.org/)
 </div>
 <hr>
 <h1 align="center">Сontact me</h1>
