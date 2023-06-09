@@ -23,7 +23,7 @@
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </a>
   <a href="https://github.com/gepolis">  
-    <img alt="Django" src="https://img.shields.io/badge/-Django-F05032?style=for-the-badge&logo=django&logoColor=white" />
+    <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   </a>
 </div>
 <hr>
