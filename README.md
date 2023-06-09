@@ -1,5 +1,5 @@
 
-<h1 align="center">Languages</h1>
+<h1 align="center">Languages and Frameworks</h1>
 
 <div align="center">
    <a href="https://github.com/gepolis">
