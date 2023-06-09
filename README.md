@@ -2,11 +2,11 @@
 <h1 align="center">Languages</h1>
 
 <div align="center">
+   <a href="https://github.com/gepolis">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
   <a href="https://github.com/gepolis">  
     <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  </a>
-  <a href="https://github.com/gepolis">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="https://github.com/gepolis">
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0f69a9?style=for-the-badge&logo=mysql&logoColor=white" />
