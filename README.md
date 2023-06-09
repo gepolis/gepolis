@@ -8,6 +8,12 @@
   <a href="https://github.com/gepolis">  
     <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   </a>
+   
+</div>
+<hr>
+<h1 align="center">DataBases</h1>
+
+<div align="center">
   <a href="https://github.com/gepolis">
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0f69a9?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
@@ -22,7 +28,7 @@
   </a>
 </div>
 <hr>
-<h1 align="center">Platform</h1>
+<h1 align="center">Platforms</h1>
 <div align="center">
 
 [![](https://img.shields.io/badge/Ubuntu-22.04-e95420?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
