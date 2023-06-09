@@ -8,12 +8,6 @@
   <a href="https://github.com/gepolis">  
     <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   </a>
-   
-</div>
-<hr>
-<h1 align="center">DataBases</h1>
-
-<div align="center">
   <a href="https://github.com/gepolis">
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0f69a9?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
