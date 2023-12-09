@@ -11,7 +11,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Telegram" src="https://i.imgur.com/Fn2t6Fj_d.webp"/></a>
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Telegram" src="https://github.com/gepolis/gepolis/blob/main/telegram_red.png?raw=true"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
