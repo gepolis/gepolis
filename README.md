@@ -105,22 +105,5 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="gepolis's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=gepolis&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#9687](https://github.com/simple-icons/simple-icons/issues/9687) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🎉 Merged PR [#626](https://github.com/DenverCoder1/github-readme-streak-stats/pull/626) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🗣 Commented on [#457](https://github.com/biati-digital/glightbox/issues/457) in [biati-digital/glightbox](https://github.com/biati-digital/glightbox)
-4. 🗣 Commented on [#626](https://github.com/DenverCoder1/github-readme-streak-stats/issues/626) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. ❗️ Opened issue [#457](https://github.com/biati-digital/glightbox/issues/457) in [biati-digital/glightbox](https://github.com/biati-digital/glightbox)
-<!--END_SECTION:activity-->
-
-  <h3>🌟 Sponsors</h3>
-
-  <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
-  <a href="https://github.com/sponsors/DenverCoder1/"><img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/metrics-sponsors.svg" /></a>
-
 </details>
 
