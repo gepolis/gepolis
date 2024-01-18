@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/gepolis">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Axenov%20Ivan;3%2B%20@%20gepolis&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Axenov%20Ivan;@gepolis&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a></a>
 </p>
 
 <p align="center">
